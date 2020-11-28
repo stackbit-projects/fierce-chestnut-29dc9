@@ -7,7 +7,7 @@ params:
     type: header
     template: header
     title: Andrea M.
-    tagline: A minimal lifeday tech
+    tagline: A minimal lifeday tech blog
     background_img: images/header-bg.jpg
     has_nav: true
     nav_links:
