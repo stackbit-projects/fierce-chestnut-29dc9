@@ -6,7 +6,7 @@ params:
   header:
     type: header
     template: header
-    title: Fjord
+    title: Andrea M
     tagline: Minimal and clean blog theme
     background_img: images/header-bg.jpg
     has_nav: true
