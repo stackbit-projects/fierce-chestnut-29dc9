@@ -19,8 +19,7 @@ fields:
 - type: file
   name: img_path
   label: Image
-  description: >-
-    The image shown on the left side. If no image added, the default image
+  description: The image shown on the left side. If no image added, the default image
     specified in Header Configuration is displayed.
 - type: text
   name: form_id
@@ -31,9 +30,8 @@ fields:
 - type: text
   name: form_action
   label: Form Action
-  description: >-
-    The path of your custom "success" page, if you want to replace the default
-    success message.
+  description: The path of your custom "success" page, if you want to replace the
+    default success message.
 - type: field_group_list
   name: form_fields
   label: Form Fields
@@ -57,4 +55,4 @@ fields:
   config:
     required: true
 pages:
-- contact.md
+- content/contact.md

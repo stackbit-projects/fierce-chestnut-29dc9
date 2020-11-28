@@ -28,4 +28,4 @@ fields:
   config:
     required: true
 pages:
-- _index.md
+- content/_index.md
