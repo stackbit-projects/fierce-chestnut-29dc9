@@ -19,7 +19,7 @@ params:
         style: link
       - type: action
         template: action
-        label: About
+        label: About me
         url: /about
         style: link
       - type: action
